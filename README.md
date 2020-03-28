@@ -2,13 +2,19 @@
 
 > Nuxt.js project
 
+## Установка и запуск
+
+$ npm install
+$ npm run build
+$ npm start
+
 ## Build Setup
 
 ``` bash
 # install dependencies
-$ npm install # Or yarn install / Установка зависимотсей
+$ npm install # Or yarn install 
 
-# build for production and launch server / Сборка и запуск проекта
+# build for production and launch server
 $ npm run build
 $ npm start
 
