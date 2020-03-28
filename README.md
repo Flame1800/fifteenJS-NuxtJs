@@ -4,9 +4,9 @@
 
 ## Установка и запуск
 
-npm install
-npm run build
-npm start
+# npm install
+# npm run build
+# npm start
 
 ## Build Setup
 
